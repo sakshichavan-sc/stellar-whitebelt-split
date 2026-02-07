@@ -4,12 +4,12 @@ A simple decentralized payment application built on the **Stellar Testnet** that
 
 ## Features
 
-- ✅ **Wallet Connect/Disconnect** – Freighter wallet integration
-- ✅ **Balance Display** – Real-time XLM balance
-- ✅ **Bill Calculation** – Split any amount among multiple recipients
-- ✅ **Send Transactions** – Pay all recipients with one click
-- ✅ **Transaction Feedback** – Success/failure states with transaction hashes
-- ✅ **Clean UI** – Simple, intuitive dark-themed interface
+-  **Wallet Connect/Disconnect** – Freighter wallet integration
+- **Balance Display** – Real-time XLM balance
+-  **Bill Calculation** – Split any amount among multiple recipients
+-  **Send Transactions** – Pay all recipients with one click
+-  **Transaction Feedback** – Success/failure states with transaction hashes
+-  **Clean UI** – Simple, intuitive dark-themed interface
 
 ## Tech Stack
 
@@ -51,23 +51,15 @@ The app will be available at `http://localhost:8080`.
 4. **Pay All** – The app calculates each person's share and sends XLM transactions
 5. **View Results** – See success/failure status and transaction hashes
 
-## How to Fund Your Testnet Wallet
+## Live Demo
+https://stellar-whitebelt-split.vercel.app/
 
-Open your browser and visit:
-```
-https://friendbot.stellar.org/?addr=YOUR_STELLAR_PUBLIC_KEY
-```
-Replace `YOUR_STELLAR_PUBLIC_KEY` with your actual address from Freighter.
-
-## Deployment
-
-Deploy to Netlify or Vercel:
-
-```bash
-npm run build
-```
-
-Upload the `dist` folder to your hosting provider.
+## Screenshots
+ [Wallet-connection] c:\Users\Dell\OneDrive\Desktop\connecting-wallet.jpg.jpeg
+[Transaction-confiramtion] c:\Users\Dell\OneDrive\Desktop\transaction-confirmation.jpg.jpeg
+[Transaction-details] c:\Users\Dell\OneDrive\Desktop\Transaction-details.jpg.jpeg
+[Updated-Balance] c:\Users\Dell\OneDrive\Desktop\updated-ballence-receiver.jpg.jpeg
+ [Disconnect-wallet] c:\Users\Dell\OneDrive\Desktop\disconnect-wallet.jpg.jpeg
 
 ## Project Structure
 
@@ -83,3 +75,4 @@ src/
 ## License
 
 MIT
+
