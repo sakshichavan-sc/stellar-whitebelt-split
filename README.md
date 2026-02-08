@@ -55,11 +55,13 @@ The app will be available at `http://localhost:8080`.
 https://stellar-whitebelt-split.vercel.app/
 
 ## Screenshots
- [Wallet-connection] c:\Users\Dell\OneDrive\Desktop\connecting-wallet.jpg.jpeg
-[Transaction-confiramtion] c:\Users\Dell\OneDrive\Desktop\transaction-confirmation.jpg.jpeg
-[Transaction-details] c:\Users\Dell\OneDrive\Desktop\Transaction-details.jpg.jpeg
-[Updated-Balance] c:\Users\Dell\OneDrive\Desktop\updated-ballence-receiver.jpg.jpeg
- [Disconnect-wallet] c:\Users\Dell\OneDrive\Desktop\disconnect-wallet.jpg.jpeg
+ ## Screenshots
+
+![Wallet Connection](screenshots/connecting-wallet.jpg.jpeg)
+![Disconnect Wallet](screenshots/disconnect-wallet.jpg.jpeg)
+![Transaction Confirmation](screenshots/transaction-confirmation.jpg.jpeg)
+![Transaction Details](screenshots/transaction-details.jpg.jpeg)
+![Updated Balance](screenshots/updated-balance-receiver.jpg.jpeg)
 
 ## Project Structure
 
